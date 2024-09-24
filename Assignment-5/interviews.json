@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "66ebaac0eaf883cf3a6312f1"
+  },
+  "interview_id": "I001",
+  "student_id": "S001",
+  "job_id": "J001",
+  "interview_date": "2024-10-10",
+  "interview_mode": "Online",
+  "result": "Pending"
+},
+{
+  "_id": {
+    "$oid": "66ebaad0eaf883cf3a6312f3"
+  },
+  "interview_id": "I002",
+  "student_id": "S002",
+  "job_id": "J003",
+  "interview_date": "2024-09-20",
+  "interview_mode": "In-person",
+  "result": "Passed"
+},
+{
+  "_id": {
+    "$oid": "66ebaaddeaf883cf3a6312f5"
+  },
+  "interview_id": "I003",
+  "student_id": "S003",
+  "job_id": "J001",
+  "interview_date": "2024-10-12",
+  "interview_mode": "Online",
+  "result": "Failed"
+}]

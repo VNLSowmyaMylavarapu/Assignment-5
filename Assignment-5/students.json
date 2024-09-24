@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66eba854eaf883cf3a6312d1"
+  },
+  "student_id": "S001",
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone_number": "+1234567590",
+  "department": "Computer Science",
+  "degree": "B.Tech",
+  "cgpa": 9.1,
+  "skills": [
+    "Python",
+    "Data Structures",
+    "Machine Learning"
+  ],
+  "applied_positions": [
+    "J001",
+    "J002"
+  ],
+  "status": "placed"
+},
+{
+  "_id": {
+    "$oid": "66eba89beaf883cf3a6312d3"
+  },
+  "student_id": "S002",
+  "name": "Alice Smith",
+  "email": "alice.smith@example.com",
+  "phone_number": "+9876543210",
+  "department": "Mechanical Engineering",
+  "degree": "B.E.",
+  "cgpa": 7.9,
+  "skills": [
+    "CAD",
+    "Thermodynamics"
+  ],
+  "applied_positions": [
+    "J003"
+  ],
+  "status": "Placed"
+},
+{
+  "_id": {
+    "$oid": "66eba8bceaf883cf3a6312d5"
+  },
+  "student_id": "S003",
+  "name": "Mark Taylor",
+  "email": "mark.taylor@example.com",
+  "phone_number": "+1122334455",
+  "department": "Information Technology",
+  "degree": "B.Tech",
+  "cgpa": 9.1,
+  "skills": [
+    "Java",
+    "Cloud Computing",
+    "Networking"
+  ],
+  "applied_positions": [
+    "J004"
+  ],
+  "status": "Not Placed"
+}]
